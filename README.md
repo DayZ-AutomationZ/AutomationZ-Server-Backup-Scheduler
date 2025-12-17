@@ -132,6 +132,7 @@ No additional libraries required.
 
 ## Is this a DayZ mod?
 No. This is an external desktop tool. You do not add it to server parameters and it does not run inside DayZ.
+You can use it for any Game server, Website or anything you can reach via FTP/FTPS can be backed up.
 
 ## Why is it called “AutomationZ” if it runs on a schedule?
 Because it removes the need for you to be online at the right time. Once configured, backups happen automatically on the schedule you set.
