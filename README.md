@@ -128,6 +128,39 @@ No additional libraries required.
 
 ---
 
+# FAQ
+
+## Is this a DayZ mod?
+No. This is an external desktop tool. You do not add it to server parameters and it does not run inside DayZ.
+
+## Why is it called “AutomationZ” if it runs on a schedule?
+Because it removes the need for you to be online at the right time. Once configured, backups happen automatically on the schedule you set.
+
+## Can I use this for other servers or websites?
+Yes. Anything you can reach via FTP/FTPS can be backed up.
+
+## Does it download my entire server?
+It can, if your host exposes the full root folder via FTP and you set the job path accordingly (example: `/` with subfolders enabled).
+Some hosts restrict access to certain folders.
+
+## Why is it slower than a “true backup”?
+FTP backups are limited by:
+- your host’s FTP speed
+- your internet upload/download
+- the number of files (many small files take longer)
+
+For many server owners, FTP snapshots are still the simplest reliable solution.
+
+## Where are backups stored?
+Backups are saved into your chosen local destination folder, grouped by:
+- profile
+- job name
+- timestamp
+
+## I see a `__pycache__` folder, is that normal?
+Yes. Python creates it automatically to speed up loading. You can ignore it.
+
+
 ## Security notes
 
 - FTP credentials are stored locally
