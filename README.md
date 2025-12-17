@@ -1,4 +1,4 @@
-# AutomationZ Server Backup Scheduler with Discord WebHooks  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
+# AutomationZ Server Backup Scheduler with (optional) Discord WebHooks  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
 
 AutomationZ Backup Scheduler is a lightweight, server-side automation tool designed to **automatically back up remote servers via FTP/FTPS** on a schedule — without requiring any mods, plugins, or manual intervention.
 
