@@ -1,0 +1,23 @@
+{
+    "profiles": [
+        {
+            "name": "test_profile1",
+            "host": "ftp.host.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/dayzstandalone"
+        },
+        {
+            "name": "test_profile2",
+            "host": "ftp.host.com",
+            "port": 21,
+            "username": "username",
+            "password": "password",
+            "tls": false,
+            "root": "/"
+        }
+    ],
+    "active_profile": "test_profile1"
+}
