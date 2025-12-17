@@ -1,5 +1,5 @@
 # AutomationZ Server Backup Scheduler with (optional) Discord WebHooks  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R51QD7BU)
-
+[![Dash-Board-Server-Backups.png](https://i.postimg.cc/NMzQ0d4t/Dash-Board-Server-Backups.png)](https://postimg.cc/YGY5nfZD)
 AutomationZ Backup Scheduler is a lightweight, server-side automation tool designed to **automatically back up remote servers via FTP/FTPS** on a schedule — without requiring any mods, plugins, or manual intervention.
 
 Originally built for **DayZ server owners**, this tool is intentionally **generic and multifunctional**, making it just as useful for **website owners, developers, and system administrators** who need reliable, scheduled backups of remote folders.
