@@ -102,7 +102,7 @@ Each run creates a **clean, timestamped snapshot**.
 ---
 
 ## Discord notifications (optional)
-
+[![Discord-Backup-Server-Webhooks.png](https://i.postimg.cc/bJBqvmTy/Discord-Backup-Server-Webhooks.png)](https://postimg.cc/34msSCVV)
 You can enable Discord webhook notifications for:
 
 - Job start
