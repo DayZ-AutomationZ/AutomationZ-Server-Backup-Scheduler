@@ -174,11 +174,12 @@ Yes. Python creates it automatically to speed up loading. You can ignore it.
 🧩 Part of AutomationZ Control Center
 This tool is part of the AutomationZ Admin Toolkit:
 
+- AutomationZ Mod Update Auto Deploy (steam workshop)
 - AutomationZ Uploader
 - AutomationZ Scheduler
 - AutomationZ Server Backup Scheduler
 - AutomationZ Server Health
-- AutomationZ Config Diff
+- AutomationZ Config Diff 
 - AutomationZ Admin Orchestrator
 - AutomationZ Log Cleanup Scheduler
 
